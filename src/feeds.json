@@ -1,5 +1,5 @@
 {
-  "dailies": [
+  "blogs": [
     "http://feed.appinn.com/",
     "http://51.ruyo.net/feed",
     "https://sspai.com/feed",
@@ -14,9 +14,6 @@
   "videogames": [
     "https://reddit-top-rss.herokuapp.com/?subreddit=gog&score=5&view=rss",
     "https://reddit-top-rss.herokuapp.com/?subreddit=games&score=30&view=rss"
-  ],
-  "devlogs": [
-    "https://solarlune.itch.io/masterplan/devlog.rss"
   ],
   "blogs": [
     "https://kevinfiol.com/atom.xml"
