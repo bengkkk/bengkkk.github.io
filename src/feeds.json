@@ -1,19 +1,15 @@
 {
   "dailies": [
-    "https://hnrss.org/frontpage?points=10&comments=5&count=35",
-    "https://hnrss.org/best?count=35",
-    "https://retronauts.com/feed/rss",
-    "https://terrysfreegameoftheweek.com/feed/",
-    "https://a327ex.com/posts/index.xml",
-    "https://fasterthanli.me/index.xml",
-    "https://lexi-lambda.github.io/feeds/all.rss.xml",
-    "https://cprss.s3.amazonaws.com/denoweekly.com.xml",
-    "https://increment.com/feed.xml",
-    "https://merelycurious.me/feed.xml",
-    "https://plurrrr.com/feed.rss",
-    "http://journal.stuffwithstuff.com/rss.xml",
-    "https://blog.skialbainn.com/rss",
-    "https://handmade.network/podcast/podcast.xml"
+    "http://feed.appinn.com/",
+    "http://51.ruyo.net/feed",
+    "https://sspai.com/feed",
+    "https://www.moerats.com/feed/",
+    "https://www.138vps.com/rss.php",
+    "https://rsshub.app/blogs/wangyin",
+    "https://jike.info/category/5.rss?uid=6&token=c5cd3a8d-a15d-4b13-9383-43400d0e092b",
+    "http://feed43.com/6257670610068230.xml",
+    "https://feed43.com/8463854385032633.xml"
+    
   ],
   "videogames": [
     "https://reddit-top-rss.herokuapp.com/?subreddit=gog&score=5&view=rss",
