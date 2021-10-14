@@ -1,5 +1,5 @@
 {
-  "blogs": [
+  "博客": [
     "http://feed.appinn.com/",
     "http://51.ruyo.net/feed",
     "https://sspai.com/feed",
@@ -8,8 +8,7 @@
     "https://rsshub.app/blogs/wangyin",
     "https://jike.info/category/5.rss?uid=6&token=c5cd3a8d-a15d-4b13-9383-43400d0e092b",
     "http://feed43.com/6257670610068230.xml",
-    "https://feed43.com/8463854385032633.xml"
-    
+    "https://feed43.com/8463854385032633.xml",
   ],
   "videogames": [
     "https://reddit-top-rss.herokuapp.com/?subreddit=gog&score=5&view=rss",
